@@ -21,9 +21,9 @@ This project includes Kubernetes manifests to manually deploy the 3-tier app on 
    kubectl config get-contexts
     ```
 2. Apply all manifests:
-  ```bash
+    ```bash
    kubectl apply -f kubernetes/
-  ```
+    ```
 4. Verify resources:
     ```bash
     kubectl get all
