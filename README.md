@@ -36,3 +36,16 @@ You can pick any toolset you want to practice and use this repo to:
 
 The app code stays the same. Only the **DevOps tooling** changes.
 ---
+---
+
+## 🙌 Author
+
+**Dhruv Senjaliya**
+
+Cloud & DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, Terraform, Jenkins, and CI/CD practices.
+
+- 📫 [Connect on LinkedIn](https://www.linkedin.com/in/senjaliyadhruv/)
+- 🌐 [GitHub Portfolio](https://github.com/senjaliyadhruv)
+
+If you find this project helpful or want to collaborate, feel free to reach out!
+
