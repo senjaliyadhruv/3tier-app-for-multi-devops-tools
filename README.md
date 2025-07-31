@@ -36,7 +36,6 @@ You can pick any toolset you want to practice and use this repo to:
 
 The app code stays the same. Only the **DevOps tooling** changes.
 ---
----
 
 ## 🙌 Author
 
